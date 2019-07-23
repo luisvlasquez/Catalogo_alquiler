@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tienda de alquiler</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="login_now">Iniciar Sesion</string>
+    <string name="dont_remember">¿No recuerda su contraseña?</string>
+    <string name="or">O</string>
+    <string name="dont_acc">¿No tienes una cuenta?</string>
+    <string name="log_in_error">¡Error de inicio de sesion!</string>
+    <string name="firebase_auth_error">¡Error de autenticacion en firebase!</string>
+    <string name="close_sesion_error">¡Error al cerrar sesion!</string>
+    <string name="revoke">¡Aceso revokado!</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="r_pass">Re-escribe la contraseña</string>
+    <string name="register_from">Registrate</string>
+    <string name="loading">Cargando...</string>
+    <string name="empty">¡Existen campos vacios!</string>
+    <string name="done">¡Guardado exitosamente!</string>
+    <string name="welcome">"¡Bienvenido! "</string>
+    <string name="error">Usuario no valido.</string>
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Cerrar menu</string>
+    <string name="not_match">¡No coinciden o la contraseña es muy corta!</string>
+    <string name="upload_img">Subir imagen</string>
+    <string name="upload_img_s">¡Imagen subida exitosamente!</string>
+    <string name="article_name">Nombre del articulo</string>
+    <string name="description">Descripcion</string>
+    <string name="price">Precio</string>
+    <string name="article">Articulo</string>
+    <string name="article_des">Descripcion del articulo</string>
+    <string name="article_price">Precio del articulo por dia</string>
+    <string name="up_and_cre">Subir imagen y crear el articulo</string>
+    <string name="create_and_upload">¡Se ha creado el nuevo articulo!</string>
+    <string name="upload_error">¡Error al subir la imagen!</string>
+    <string name="logout">Cerrar Sesion</string>
+    <string name="invalid">Campo invalido</string>
+    <string name="email_c">Email del contacto</string>
+    <string name="rent_st">Tienda de alquiler</string>
+    <string name="sing_up">Crear cuenta</string>
+    <string name="item_list">Lista de articulos</string>
+    <string name="add_item">Añadir nuevo articulo</string>
+    <string name="profile">Perfil</string>
+    <string name="alredy">¿Ya estas registrado? Inicia sesion aqui.</string>
+</resources>

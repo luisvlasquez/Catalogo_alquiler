@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1001338221093",
+    "firebase_url": "https://alquilerarticulos.firebaseio.com",
+    "project_id": "alquilerarticulos",
+    "storage_bucket": "alquilerarticulos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001338221093:android:87dbe3b6f6a98754",
+        "android_client_info": {
+          "package_name": "com.example.alquiler_articulos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001338221093-7ftauklrjt98l496qj3jcg1rtfc7128c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alquiler_articulos",
+            "certificate_hash": "bfa6ded6f4f6ddd7e0346a7c38fa635cb3e66d39"
+          }
+        },
+        {
+          "client_id": "1001338221093-g72j3jbv9a9gr0i323futkn6p5mi1dbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGi4RP_kJg9J1juO5en2zM3iw29b7o4h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001338221093-g72j3jbv9a9gr0i323futkn6p5mi1dbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/blue_d</item>
+        <item name="colorPrimaryDark">@color/blue</item>
+        <item name="colorAccent">@color/common_google_signin_btn_text_dark_default</item>
+    </style>
+
+</resources>
